@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trees</string>
+    <string name="textView1">Hello World! \nYou can either:\n\nEnter a value. \n\nOR\n\nClear the Tree. \n\n(Value is the blue input box)</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Add values to tree!</string>
+    <string name="button2">Clear all elements from tree!</string>
+    <string name="editText1">Value:</string>
+    <string name="duplicate_key_message">You cannot enter duplicate values into a tree!</string>
+</resources>
