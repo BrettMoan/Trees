@@ -77,7 +77,7 @@ public class mainActivity extends Activity
         if(!this.myTree.isEmpty())
         {
             for (Iterator i = this.myTree.iterator(); i.hasNext();)
-            {
+            {   
                 String newline =  "Value: [" + (String) i.next() + "]\n";
                 text += newline;
             }
